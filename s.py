@@ -1,2 +1,2 @@
-import pywhatkit
-pywhatkit.sendwhatmsg("+918885281014","Hii",10,00)
+for i in range(1,20):
+    print(i)
